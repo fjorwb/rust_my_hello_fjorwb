@@ -4,6 +4,6 @@ version = "0.1.0"
 edition = "2021"
 license = "MIT"
 description = "a crate to test creating a crate"
-
+repository = "https://github.com/fjorwb/rust_my_hello_fjorwb"
 
 [dependencies]
