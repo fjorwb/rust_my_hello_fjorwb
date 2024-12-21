@@ -1,4 +1,4 @@
-pub fn hello(){
-    println!("Hello, world!!!!!!!!!!!!!!!!!");
+pub fn hello() -> String{
+    println!("Hello, world!");
+    return "fjor".to_string();
 }
-
